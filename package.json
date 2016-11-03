@@ -4,7 +4,7 @@
   "description": "Aurora Sass Styles Loader",
   "main": "./dist/index.js",
   "engines": {
-    "node": "5.x.x"
+    "node": ">=5.x.x"
   },
   "scripts": {
     "build": "rimraf dist && babel src --out-dir dist",
