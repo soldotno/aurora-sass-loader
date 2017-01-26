@@ -4,7 +4,7 @@
   "description": "Aurora Sass Styles Loader",
   "main": "./dist/index.js",
   "engines": {
-    "node": ">=5.x.x"
+    "node": ">=7.x.x"
   },
   "scripts": {
     "build": "rimraf dist && babel src --out-dir dist",
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/soldotno/aurora-sass-loader",
   "dependencies": {
     "is-client": "0.0.2",
-    "node-sass": "^3.4.2"
+    "node-sass": "^3.10.1"
   },
   "devDependencies": {
     "babel": "^6.0.15",

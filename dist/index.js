@@ -8,7 +8,7 @@ module.exports = function (path) {
    * node-sass to compile sass
    * to css (webpack format supported by style-loader)
    */
-  var styles = undefined;
+  var styles = void 0;
 
   if (!isBrowser) {
     var sass = require('node-sass');
