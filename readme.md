@@ -1,6 +1,8 @@
 Aurora Sass Styles Loader
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soldotno/aurora-sass-loader.svg)](https://greenkeeper.io/)
+
 A helper function/module for loading universal/isomorphic styles in Aurora
 
 #### Usage
