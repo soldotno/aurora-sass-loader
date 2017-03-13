@@ -1,6 +1,6 @@
 {
   "name": "aurora-sass-loader",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Aurora Sass Styles Loader",
   "main": "./dist/index.js",
   "engines": {
