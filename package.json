@@ -22,7 +22,7 @@
   "homepage": "https://github.com/soldotno/aurora-sass-loader",
   "dependencies": {
     "is-client": "0.0.2",
-    "node-sass": ">=4.5.0"
+    "node-sass": ">=4.9.1"
   },
   "devDependencies": {
     "babel": "^6.0.15",
